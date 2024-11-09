@@ -17,3 +17,9 @@
 
 **Virus sin conexión a internet**
 ![imagen](https://github.com/user-attachments/assets/efae6936-9e2d-4abd-b5ee-d107f05ce13b)
+
+**Service worker**
+![imagen](https://github.com/user-attachments/assets/4935b86f-d008-410f-a1db-a2f7aee7b5f5)
+
+**CACHE**
+![imagen](https://github.com/user-attachments/assets/1ccfb3d0-68fd-4de4-83a5-641112d65c73)
